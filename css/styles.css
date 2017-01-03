@@ -1,8 +1,19 @@
 footer img {
   length: 40px;
   width: 40px;
+  padding: 1% 1%;
 }
 
 footer p {
   display: inline-block;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer {
+  border-top-style: solid;
+  border-top-width: thin;
+  padding-top: 2.5%;
 }
