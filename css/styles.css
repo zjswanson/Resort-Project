@@ -3,6 +3,15 @@
 * {
   text-align: center;
 }
+/**********PHOTO GALLERY**********/
+.gallery img {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  border-style: solid;
+  border-color: gray;
+  }
+
 
 /**********BODY**********/
 
